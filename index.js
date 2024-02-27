@@ -1,5 +1,5 @@
-var Resource = require("bos_backend/lib/resource"),
-    Script = require("bos_backend/lib/script"),
+var Resource = require("@eduardo.bitec/bos_backend/lib/resource"),
+    Script = require("@eduardo.bitec/bos_backend/lib/script"),
     util = require("util");
 
 function EventResource() {
