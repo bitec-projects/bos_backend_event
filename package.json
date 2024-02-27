@@ -1,0 +1,10 @@
+{
+    "name": "bos_backend_event",
+    "version": "0.0.1",
+    "description": "Bos Backend Event é um módulo para criar eventos em coleções, compatível com Bos Backend",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bitec-projects/bos_backend_event.git"
+    }
+}
